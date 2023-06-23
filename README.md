@@ -16,13 +16,16 @@
 
 
 ## &nbsp;
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={king7532})](https://solved.ac/{king7532})
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=king7532)](https://solved.ac/profile/king7532)
 <br/>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=105mm&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <br/>
 
 ![105mm's github stats](https://github-readme-stats.vercel.app/api?username=105mm&show_icons=true&theme=tokyonight)
+<br/>
+<br/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=105mm&layout=compact&theme=tokyonight)
+<br/>
 <br/>
 
 </div>
