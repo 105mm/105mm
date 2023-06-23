@@ -17,14 +17,11 @@
 
 ## :book:study log
 <br/>
-<br/>
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=king7532)](https://solved.ac/profile/king7532)
 <br/>
-<br/>
 
 ![105mm's github stats](https://github-readme-stats.vercel.app/api?username=105mm&show_icons=true&theme=tokyonight)&nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=105mm&layout=compact&theme=tokyonight)
-<br/>
 <br/>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F105mm%2Fhit-counter&count_bg=%23C83D3D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=&edge_flat=false)](https://hits.seeyoufarm.com)
