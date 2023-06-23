@@ -23,11 +23,7 @@
 <br/>
 <br/>
 
-![105mm's github stats](https://github-readme-stats.vercel.app/api?username=105mm&show_icons=true&theme=tokyonight)
-<br/>
-<br/>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=105mm&layout=compact&theme=tokyonight)
+![105mm's github stats](https://github-readme-stats.vercel.app/api?username=105mm&show_icons=true&theme=tokyonight)&nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=105mm&layout=compact&theme=tokyonight)
 <br/>
 <br/>
 
