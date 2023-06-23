@@ -6,7 +6,7 @@
 ## :computer: I’m Web Developer!
 <br/>
 
-### :mailbox: How to contact : :information_desk_person: <a href="mailto:king7532@knou.com" target="_blank" rel="noopener noreferrer">king7532@knou.com</a>
+### :mailbox: How to contact : :information_desk_person: <a href="mailto:king7532@knou.com" target="_blank" rel="noopener noreferrer">king7532@knou.ac.kr</a>
 <br/>
 
 ### :page_with_curl:Notion portfolio : :information_desk_person: <a href="https://gleaming-creature-89a.notion.site/b4fbf39c0a24479aa241e232e53b1207?pvs=4" target="_blank" rel="noopener noreferrer">Here</a>
